@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning how to human<br>🎯 Goals: Make fun projects and learn in the process</p>
+<p align="left">📚 I'm currently learning *how to human*<br>🎯 Goals: Make fun projects and learn in the process</p>
 
 ###
 
